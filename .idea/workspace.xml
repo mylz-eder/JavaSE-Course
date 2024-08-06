@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa24113a-b604-443b-84f4-23a624420386" name="Changes" comment="Finished up the first 50 fibonacci numbers sequence">
-      <change afterPath="$PROJECT_DIR$/src/session2/AscDescNumOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session2/FibonacciNum20To40.java" afterDir="false" />
+    <list default="true" id="aa24113a-b604-443b-84f4-23a624420386" name="Changes" comment="finished all the second session assignments">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session9/Database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session9/DatabaseAdmin/ConnectionMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session9/DatabaseAdmin/ProductDataAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session9/Description" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session9/entity/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,17 +54,35 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Java SE Course/Java SE 09",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.keymap"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
       "oracle"
+    ],
+    "RunConfigurationTargetLRU": [
+      "fcf71b31-30c7-4db5-85c6-6b07daf0e106"
     ]
   }
 }]]></component>
+  <component name="RunManager" selected="Database Script.Database.sql">
+    <configuration name="Database.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/session9/Database.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="fcf71b31-30c7-4db5-85c6-6b07daf0e106" />
+      <method v="2" />
+    </configuration>
+    <configuration name="console.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/fcf71b31-30c7-4db5-85c6-6b07daf0e106/console.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="fcf71b31-30c7-4db5-85c6-6b07daf0e106" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +92,9 @@
       <option name="presentableId" value="Default" />
       <updated>1722939331892</updated>
       <workItem from="1722939333438" duration="1317000" />
-      <workItem from="1722940676313" duration="4270000" />
+      <workItem from="1722940676313" duration="4716000" />
+      <workItem from="1722945452504" duration="2780000" />
+      <workItem from="1722951915450" duration="10310000" />
     </task>
     <task id="LOCAL-00001" summary="Uploading the folders and cleanup">
       <created>1722940528557</created>
@@ -98,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1722943242437</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finished all the second session assignments">
+      <created>1722945264437</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722945264437</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +151,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Uploading the folders and cleanup" />
     <MESSAGE value="Finished up the first 50 fibonacci numbers sequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished up the first 50 fibonacci numbers sequence" />
+    <MESSAGE value="finished all the second session assignments" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished all the second session assignments" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
