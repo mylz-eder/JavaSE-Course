@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa24113a-b604-443b-84f4-23a624420386" name="Changes" comment="Uploading the folders and cleanup">
-      <change afterPath="$PROJECT_DIR$/src/session2/FibonacciFirst50.java" afterDir="false" />
+    <list default="true" id="aa24113a-b604-443b-84f4-23a624420386" name="Changes" comment="Finished up the first 50 fibonacci numbers sequence">
+      <change afterPath="$PROJECT_DIR$/src/session2/AscDescNumOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session2/FibonacciNum20To40.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session2/Description" beforeDir="false" afterPath="$PROJECT_DIR$/src/session2/Description" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -62,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722939331892</updated>
       <workItem from="1722939333438" duration="1317000" />
-      <workItem from="1722940676313" duration="2270000" />
+      <workItem from="1722940676313" duration="4270000" />
     </task>
     <task id="LOCAL-00001" summary="Uploading the folders and cleanup">
       <created>1722940528557</created>
@@ -85,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1722940695221</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finished up the first 50 fibonacci numbers sequence">
+      <created>1722943242437</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722943242437</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Uploading the folders and cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploading the folders and cleanup" />
+    <MESSAGE value="Finished up the first 50 fibonacci numbers sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished up the first 50 fibonacci numbers sequence" />
   </component>
 </project>
