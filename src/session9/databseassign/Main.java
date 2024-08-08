@@ -1,6 +1,6 @@
-package session9;
+package session9.databseassign;
 
-import session9.entity.Product;
+import session9.databseassign.entity.Product;
 
 import java.util.Scanner;
 

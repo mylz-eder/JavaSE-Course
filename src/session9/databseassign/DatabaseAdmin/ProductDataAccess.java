@@ -1,10 +1,8 @@
-package session9.DatabaseAdmin;
+package session9.databseassign.DatabaseAdmin;
 
-import session9.entity.Product;
+import session9.databseassign.entity.Product;
 import java.sql.*;
-import java.util.ArrayList;
-import java.util.List;
-
+/*
 public class ProductDataAccess {
     private PreparedStatement preparedStatement;
 
@@ -21,3 +19,4 @@ public class ProductDataAccess {
         }
 
 }
+*/

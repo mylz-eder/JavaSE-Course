@@ -1,4 +1,4 @@
-package session9.entity;
+package session9.databseassign.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -11,6 +11,9 @@ import lombok.experimental.SuperBuilder;
 @ToString
 @NoArgsConstructor
 @SuperBuilder
+
+
+
 
 public class Product {
     private String name;
