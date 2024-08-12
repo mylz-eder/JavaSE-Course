@@ -30,29 +30,39 @@ public class Main {
                     System.out.println("1) Add a Product: ");
                     System.out.print("Product Name: ");
                     addProduct.setName(input.nextLine());
+
                     System.out.print("product price: ");
                     addProduct.setPrice(Integer.parseInt(input.nextLine()));
+
                     break;
                 case 2:
                     System.out.println("2) Edit Product. ");
+
                     break;
                 case 3:
                     System.out.println("3) Remove Product. ");
                     System.out.print("Type the product id you want to remove: ");
+
                     break;
                 case 4:
                     System.out.println("4) Print the entire invoice list: ");
+
                     break;
                 case 5:
                     System.out.println("5) The Total Price is: ");
+
                     break;
                 case 6:
                     System.out.println("6) Print the last Invoice");
 
+                    break;
                 case 0:
                     System.out.println("0) Program Terminated successfully");
+
                     break;
                 default:
+                    System.out.println("Try Again!!!");
+                
             }
 
 
